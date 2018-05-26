@@ -34,7 +34,7 @@ namespace DesignPatterns
      public class Console{
 
         public static void Main(string[] args){
-            // You would get same instance when each time using:
+            // You would get same instance each time with:
             Singleton singleton = Singleton.Instance;
         }
     }
