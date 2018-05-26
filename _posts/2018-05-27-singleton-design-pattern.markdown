@@ -8,7 +8,7 @@ categories: design-patterns
 Strategy Pattern:
 
 {% highlight ruby %}
-namespace DesignPatterns.SingletonDP
+namespace DesignPatterns
 {
     public sealed class Singleton
     {
