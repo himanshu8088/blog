@@ -16,10 +16,10 @@
 title: Techoverflow
 email: himanshusoni1234@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- Technical buzz and daily problem solution  
+ Techoverflow helps you to solve issue that individual faces while writing code. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  himanshu8088
+github_username:  himanshsu8088
 
 # Build settings
 markdown: kramdown
