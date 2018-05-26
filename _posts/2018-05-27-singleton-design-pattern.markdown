@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Design Patterns"
+title:  "Singleton Design Pattern"
 date:   2018-05-27 00:00:00 +0530
 categories: design-patterns
 ---
